@@ -13,4 +13,4 @@ Radio Bubble, http://ec2-54-160-35-5.compute-1.amazonaws.com:8000/stream.m3u
 Jazz Radio - Classic, http://listen.jazzradio.com/public1/classicjazz.pls?fdcd2b2657b1a6adab2e8a2f
 Jazz Radio - Swing and Big Bands, http://listen.jazzradio.com/public1/swingnbigband.pls?fdcd2b2657b1a6adab2e8a2f
 Fip Radio, http://www.tv-radio.com/station/fip_mp3/fip_mp3-128k.m3u
-AM 1710 - American radio dramas from the 1930s 40s and 50s, http://lin2.ash.fast-serv.com:9022
+AM 1710 - American radio dramas from the 30s 40s and 50s, http://lin2.ash.fast-serv.com:9022
