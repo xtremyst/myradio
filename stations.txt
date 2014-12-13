@@ -1,16 +1,17 @@
 Alpha, http://194.219.46.2:8080/live
-Athens, rtmp://cp91386.live.edgefcs.net/live/ATHENS984FLASH@20490
+Athens?, rtmp://cp91386.live.edgefcs.net/live/ATHENS984FLASH@20490
 Nova Sport FM, http://sportfm.live24.gr:80/sportfm7712
 Pepper, http://pepper966.live24.gr:80/pepper9660
 Real FM, mms://realfm.live24.gr/realfm?MSWMExt=.asf
 Rock FM, http://91.132.6.21:8003
-Skaι, http://netradio.live24.gr:80/skai1003
+Red FM?,
+Skai, http://netradio.live24.gr:80/skai1003
 Sto Kokkino, http://stokokkino.live24.gr:80/stokokkino
 1055 Rock, http://radio.onweb.gr:8078/listen.pls
-Imagine897, http://imagine.1stepstream.com:8000/live 
+Imagine897, http://imagine.1stepstream.com:8000/live.m3u
 Athlitiko Metropolis, http://85.25.207.34:8004/;listen.pls
-Jazz Radio - Classic, http://pub2.jazzradio.com:80/jr_classicjazz?fdcd2b2657b1a6adab2e8a2f
-Jazz Radio - Swing and Big Bands, http://pub8.jazzradio.com:80/jr_swingnbigband?fdcd2b2657b1a6adab2e8a2f
-Jazz Radio - Gupsy Jazz, http://pub7.jazzradio.com:80/jr_gypsyjazz?fdcd2b2657b1a6adab2e8a2f
+Radio Bubble, http://ec2-54-160-35-5.compute-1.amazonaws.com:8000/stream.m3u
+Jazz Radio - Classic, http://listen.jazzradio.com/public1/classicjazz.pls?fdcd2b2657b1a6adab2e8a2f
+Jazz Radio - Swing and Big Bands, http://listen.jazzradio.com/public1/swingnbigband.pls?fdcd2b2657b1a6adab2e8a2f
 Fip Radio, http://www.tv-radio.com/station/fip_mp3/fip_mp3-128k.m3u
 AM 1710 - American radio dramas from the 1930s 40s and 50s, http://lin2.ash.fast-serv.com:9022
