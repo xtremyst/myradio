@@ -4,7 +4,6 @@ Nova Sport FM, http://sportfm.live24.gr:80/sportfm7712
 Pepper, http://pepper966.live24.gr:80/pepper9660
 Real FM, mms://realfm.live24.gr/realfm?MSWMExt=.asf
 Rock FM, http://91.132.6.21:8003
-Red FM?,
 Skai, http://netradio.live24.gr:80/skai1003
 Sto Kokkino, http://stokokkino.live24.gr:80/stokokkino
 1055 Rock, http://radio.onweb.gr:8078/listen.pls
