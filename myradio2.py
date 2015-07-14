@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/local/bin/python
 
 import os
 import sys
@@ -24,28 +24,29 @@ def interract():
     station = raw_input("Select Station or type q to exit: ")
     try:
         st = int(station) 
-        if st > len(names) or st < 0:
+        if st > len(names) or st <= 0:
+            print "\nNumber is too small or too big, please enter a valid number!\n"
             interract()
     except:
         if station == "q":
             print "\nGoodbye...\n"
             sys.exit()
         else:
-            print "\nWrong Input, try again\n"
+            print "\nNot a number, please try again\n"
             interract()
     print "\nNow playing", names[st-1]
-    print "If you want to stop press q\n"
+    print "press space to pause, or press q to stop\n"
     os.system('mplayer -really-quiet '+ urls[st-1])
     make_change()
 
 def make_change():
     global n, names, urls
-    change = raw_input("\nType c to change station\nType q to exit\n% ")
-    if change == "c":
+    change = raw_input("\nType l to list stations again or type q to exit\n-> ")
+    if change == "l":
         radio()
         interract()
     elif change == "q":
-        print "\nGoodbye..."
+        print "\nGoodbye...\n"
         sys.exit()
     else:
         print "Wrong Input, try again"
