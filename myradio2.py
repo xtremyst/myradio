@@ -37,14 +37,16 @@ def interract():
     print "\nNow playing", names[st - 1]
     print "press space to pause, or press q to stop\n"
     os.system('mplayer -really-quiet '+ urls[st - 1])
-    make_change()
-
-def make_change():
-    global n, names, urls
-    #change = raw_input("\nType l to list stations or type q to exit\n-> ")
-    #if change == "l":
+    #make_change()
     radio()
     interract()
+
+#def make_change():
+#    global n, names, urls
+    #change = raw_input("\nType l to list stations or type q to exit\n-> ")
+    #if change == "l":
+        #radio()
+        #interract()
     #elif change == "q":
     #    print "\nGoodbye...\n"
     #    sys.exit()
