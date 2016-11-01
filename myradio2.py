@@ -41,16 +41,16 @@ def interract():
 
 def make_change():
     global n, names, urls
-    change = raw_input("\nType l to list stations or type q to exit\n-> ")
-    if change == "l":
-        radio()
-        interract()
-    elif change == "q":
-        print "\nGoodbye...\n"
-        sys.exit()
-    else:
-        print "Wrong Input, try again"
-        make_change()
+    #change = raw_input("\nType l to list stations or type q to exit\n-> ")
+    #if change == "l":
+    radio()
+    interract()
+    #elif change == "q":
+    #    print "\nGoodbye...\n"
+    #    sys.exit()
+    #else:
+    #    print "Wrong Input, try again"
+    #    make_change()
 
 
 radio()
